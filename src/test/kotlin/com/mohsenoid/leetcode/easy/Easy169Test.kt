@@ -45,4 +45,14 @@ class Easy169Test {
 
         assertEquals(expected, actual)
     }
+
+    @Test
+    fun test5() {
+        val nums = intArrayOf(3, 2, 3, 1, 3, 4, 3, 5)
+        val expected = 3
+
+        val actual = Easy169.majorityElement(nums)
+
+        assertEquals(expected, actual)
+    }
 }

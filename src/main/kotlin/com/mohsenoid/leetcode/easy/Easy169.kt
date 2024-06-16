@@ -65,6 +65,7 @@ object Easy169 {
         return nums[index]
     }
 
+    // Moore’s Voting Algorithm
     fun majorityElement(nums: IntArray): Int {
         var candidate = 0
         var count = 0

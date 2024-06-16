@@ -1,5 +1,8 @@
 # LeetCode
 
+LeetCode is a tech skills and interview preparation platform students, professional programmers, and employers use to
+learn, practice, and assess coding and programming skills.
+
 This repo holds [my LeetCode](https://leetcode.com/u/mohsenoid/) practices.
 
 ## Table of contents
