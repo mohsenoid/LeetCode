@@ -17,5 +17,6 @@ This repo holds [my LeetCode](https://leetcode.com/u/mohsenoid/) practices.
 ### Medium
 
 80. [Remove Duplicates from Sorted Array II](src/test/kotlin/com/mohsenoid/leetcode/medium/Medium80Test.kt)
+189. [Rotate Array](src/main/kotlin/com/mohsenoid/leetcode/medium/Medium189.kt)
 
 ### Hard
